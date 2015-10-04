@@ -1,0 +1,53 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 300;
+  color: rgba(0,0,0,0.8);
+}
+
+#parents {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 200px;
+  padding: 50px 25px 100% 50px;
+  border-right: 1px solid rgba(0,0,0,0.08);
+}
+
+#parents h1 {
+  font-size: 24px;
+  line-height: 48px;
+  margin: 0 0 16px 0;
+}
+
+#parents a {
+  font-size: 16px;
+  line-height: 32px;
+}
+
+#children {
+  position: fixed;
+  left: 300px;
+  top: 0px;
+  width: 350px;
+  padding: 50px 0 100% 50px;
+}
+
+#children h1 {
+  font-size: 32px;
+  line-height: 48px;
+  margin: 0 0 24px 0;
+}
+
+#children a {
+  font-size: 24px;
+  line-height: 48px;
+}
+
+a {
+  display: block;
+  text-decoration: underline;
+  color: rgba(0,0,0,0.8);
+}
+
+
+
