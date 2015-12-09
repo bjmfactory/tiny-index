@@ -49,5 +49,17 @@ a {
   color: rgba(0,0,0,0.8);
 }
 
+.container {
+  max-width: 600px;
+  margin: 5% auto;
+}
 
+button {
+  font-size: 2em;
+  margin: 50px 0;
+}
+
+textarea {
+  font-size: 2em;
+}
 
